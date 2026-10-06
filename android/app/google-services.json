@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "262377230628",
+    "project_id": "alcohol-speed",
+    "storage_bucket": "alcohol-speed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262377230628:android:b3119872a52a06f9d9e3b1",
+        "android_client_info": {
+          "package_name": "com.example.archohol"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyt-RLv7fAVnZp3cyBNyJxIbfhwPA5sB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
